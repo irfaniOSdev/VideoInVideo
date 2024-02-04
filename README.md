@@ -7,8 +7,6 @@ This project is a demo for showing a pip mode video play with remote video URL.
 - [Tools and Technologies](#tools-and-technologies)
 - [Project Structure](#project-structure)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 This project is a demo for showing a pip mode video play with remote video URL. It is designed considering requirements in mind such as maintaining pip and expanded mode for both landscape and portrait mode.
@@ -17,7 +15,7 @@ This project is a demo for showing a pip mode video play with remote video URL. 
 
 You can find demo video of app working below.
 
-[![Demo Video](https://drive.google.com/file/d/1QZxXT3bfsXHYlZQCzKMKdKlytBmDzebW/view?usp=drive_link)]
+[Demo Video](https://drive.google.com/file/d/1QZxXT3bfsXHYlZQCzKMKdKlytBmDzebW/view)
 
 ### Main Features
 - Video Player with remote URL.
